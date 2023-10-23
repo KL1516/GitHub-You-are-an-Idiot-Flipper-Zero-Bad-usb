@@ -1,8 +1,9 @@
 REM created by KL1516
-REM If you have any questions, you can come to my discord server, https://discord.gg/5JJAGw2JqH
+REM If you have any questions, you can come to my discord
+REM server, https://discord.gg/5JJAGw2JqH
 REM Script tested on Windows 10 with Flipper Zero 
-REM Version 1.0
-REM NOTE: I WILL NOT BE RESPONSIBLE FOR ANY ACTIONS WITH THE SCRIPT. ACTUAL USE AND RUN OF THE SCRIPT IS AT YOUR OWN RISK.
+REM Version 1.1 last Update 23.10.2023
+REM NOTE: I WILL NOT BE RESPONSIBLE FOR ANY ACTIONS WITH THE  REM SCRIPT. ACTUAL USE AND RUN OF THE SCRIPT IS AT YOUR OWN REM RISK.
 REM ITS ILLEGAL TO USE ON SYSTEMS WITHOUT PERMISSION!!
 
 DELAY 500
