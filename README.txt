@@ -10,3 +10,7 @@ ITS ILLEGAL TO USE ON SYSTEMS WITHOUT PERMISSION!!
 
 Link for YouTube Video of this Script:
 https://youtu.be/8HbEFcJHGz8
+
+Upcoming update: Support for newer generations of Windows (11) and more scripts if I can do it 
+release? November/December 2023 
+ 
